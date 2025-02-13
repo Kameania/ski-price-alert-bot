@@ -10,3 +10,4 @@ ski_venv/
 .profile
 .selected_editor
 .ssh/
+ski_price_alert.py
