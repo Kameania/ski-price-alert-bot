@@ -1,0 +1,12 @@
+# Ignore Python virtual environment
+ski_venv/
+
+# Ignore system files
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.gitconfig
+.profile
+.selected_editor
+.ssh/
